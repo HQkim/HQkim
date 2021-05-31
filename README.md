@@ -1,7 +1,6 @@
 - Hi, I’m HQ Kim
 - I have been studying programming since 2020.
-- I want to provide myself to make amazing services!
-
+- I want to be part of making amazing services!
 <!---
 HQkim/HQkim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
