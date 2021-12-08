@@ -1,6 +1,8 @@
 안녕하세요. 저는 백엔드 개발자가 되기 위해 공부하고 있습니다. <br/>
 현재까지 Python, Django를 주로 사용해 왔습니다.
 
+한번이라도 사용해 본적 있는 프론트엔드 스킬들은 아래에 있습니다.
+
 
 #### Skills
 - Backend: <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
